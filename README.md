@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I'm a self-taught programmer. Beside from personal projects I also make websites and programs for organizations.<br>🧑‍🏫 I also teach Python to teenagers. <br>🚀I'm 16 years old with a lot of passion for programming.<br>
+⚒️ I'm a self-taught programmer. Beside from personal projects I also make websites and programs for organizations.<br>🧑‍🏫 I also teach Python to teenagers. <br>🚀I'm 17 years old with a lot of passion for programming.<br>
 
 🏢 **Portfolio:** https://yarnegooris.netlify.app (In dutch)
 
